@@ -577,7 +577,7 @@
                         <div class="contact-phone">
                             <i class="ion-ios-telephone-outline"></i>
                             <h3>Nomor Telepon</h3>
-                            <p><a href="tel:+155895548855">+1 5589 55488 55</a></p>
+                            <p><a href="tel:+155895548855">+62 8123 4567</a></p>
                         </div>
                     </div>
 
